@@ -108,6 +108,10 @@ ignore:
 theme: cactus
 theme_config:
   colorscheme: white
+social_links:
+  github: your-github-url
+  twitter: your-twitter-url
+  NAME: your-NAME-url
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
